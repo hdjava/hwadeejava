@@ -2,7 +2,6 @@ package com.hwjava.springbootmybatisplus.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.hwjava.springbootmybatisplus.pojo.YunMenus;
-import com.hwjava.springbootmybatisplus.vo.YunMenusVo;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 
