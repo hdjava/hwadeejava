@@ -1,4 +1,4 @@
-package com.ugaoxin.springbootmybatisplus.pojo;
+package com.hwjava.springbootmybatisplus.pojo;
 
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
