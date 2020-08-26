@@ -5,7 +5,6 @@ import com.baomidou.mybatisplus.core.toolkit.StringUtils;
 import com.hwjava.springbootmybatisplus.pojo.YunMenus;
 import com.hwjava.springbootmybatisplus.pojo.YunUser;
 import com.hwjava.springbootmybatisplus.service.LoginService;
-import com.hwjava.springbootmybatisplus.service.YunMenusService;
 import com.hwjava.springbootmybatisplus.service.YunUserService;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.*;
