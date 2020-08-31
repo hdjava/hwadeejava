@@ -1,8 +1,8 @@
 package com.hwjava.springbootmybatisplus.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.ugaoxin.springbootmybatisplus.pojo.YunRole;
-import com.ugaoxin.springbootmybatisplus.vo.YunRoleVo;
+import com.hwjava.springbootmybatisplus.pojo.YunRole;
+import com.hwjava.springbootmybatisplus.vo.YunRoleVo;
 import org.apache.ibatis.annotations.Many;
 import org.apache.ibatis.annotations.Result;
 import org.apache.ibatis.annotations.Results;
