@@ -1,7 +1,7 @@
 package com.hwjava.springbootmybatisplus.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.ugaoxin.springbootmybatisplus.pojo.Charts;
+import com.hwjava.springbootmybatisplus.pojo.Charts;
 import org.apache.ibatis.annotations.Select;
 
 import java.util.List;
