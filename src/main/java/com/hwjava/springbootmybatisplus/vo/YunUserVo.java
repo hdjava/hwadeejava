@@ -1,8 +1,8 @@
 package com.hwjava.springbootmybatisplus.vo;
 
 import com.baomidou.mybatisplus.annotation.TableField;
-import com.ugaoxin.springbootmybatisplus.pojo.YunRole;
-import com.ugaoxin.springbootmybatisplus.pojo.YunUser;
+import com.hwjava.springbootmybatisplus.pojo.YunRole;
+import com.hwjava.springbootmybatisplus.pojo.YunUser;
 
 import java.util.List;
 import java.util.Set;
